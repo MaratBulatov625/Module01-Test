@@ -9,6 +9,7 @@ h1 {
 }
 
 .order__item {
+    cursor: pointer;
     transition: color .2s linear;
 }
 
