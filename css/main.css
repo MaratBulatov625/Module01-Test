@@ -1,0 +1,24 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background: linear-gradient(to bottom, #f38181, #fce38a) no-repeat;;
+    background-size: cover;
+    color: #473838;
+}
+h1 {
+    color: #991f1b;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: color .2s linear;
+}
+
+a:hover {
+    color: #8fc49f;
+    text-decoration: wavy;
+}
+
+q {
+    color: #e65c8a;
+}
