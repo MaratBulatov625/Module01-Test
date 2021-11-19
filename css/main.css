@@ -8,6 +8,15 @@ h1 {
     color: #991f1b;
 }
 
+.order__item {
+    transition: color .2s linear;
+}
+
+.order__item:hover {
+    color: #fce38a;
+    text-decoration: wavy;
+}
+
 a {
     text-decoration: none;
     color: inherit;
