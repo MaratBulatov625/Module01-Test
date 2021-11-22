@@ -1,10 +1,11 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     background: linear-gradient(to bottom, #f38181, #fce38a) no-repeat;;
     background-size: cover;
     color: #473838;
 }
 h1 {
+    font-weight: 900;
     color: #991f1b;
 }
 
